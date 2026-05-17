@@ -1,0 +1,1 @@
+Bat to Fix The error "Child process exited with code 1" is a generic signal that a sub-program (the "child") failed to start or crashed unexpectedly. While it can happen in many apps, it is most commonly associated with AudioRelay, Dante Controller, or FireControl on Windows.
